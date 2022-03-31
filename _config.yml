@@ -1,7 +1,7 @@
 theme: jekyll-theme-primer
 title: Support Vector Olives
 description: Keeping Italian Olives Pure!
-baseurl: /testgpages
+baseurl: https://rahuldave.github.io/testgpages
 markdown: kramdown
 kramdown:
     math_engine: mathjax
